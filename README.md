@@ -347,8 +347,8 @@ Possible future improvements include:
 
 ## Author
 
-Poethae
-Computer Science Graduate – University of Sunderland
+Win Phyo Thein Han 
+Computer Systems Engineering (Computer Science) Graduate – University of Sunderland
 Interested in Data Analytics, Data Science, and AI/ML Engineering.
 
 ---
